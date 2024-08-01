@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gvkwnK3dvPbu/r22wVnaAS+I5uw05Mtw3BKCtAXfRh466ESn/3XfAtnJ3od+sSK4JS3h3oYqLGUmOk3P9ITf9w==",
+  "success": true,
+  "projectFilePath": "F:\\חומר סמינר\\לוי\\אפלבוים ופרצוביץ\\Calendar.Api\\Calendar.Api\\Calendar.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
