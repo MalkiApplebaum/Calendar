@@ -56,30 +56,6 @@
     "Password": "gfvb"
   },
   {
-    "UserId": "r",
-    "FirstName": "r",
-    "LastName": "r",
-    "Email": "r",
-    "Phone": "r",
-    "Password": "r"
-  },
-  {
-    "UserId": "jj",
-    "FirstName": "jj",
-    "LastName": "jj",
-    "Email": "jj",
-    "Phone": "jj",
-    "Password": "jj"
-  },
-  {
-    "UserId": "",
-    "FirstName": "",
-    "LastName": "",
-    "Email": "",
-    "Phone": "",
-    "Password": ""
-  },
-  {
     "UserId": "Tamar",
     "FirstName": "Tamar",
     "LastName": "Appleboim",
@@ -91,8 +67,8 @@
     "UserId": "t",
     "FirstName": "Tehila",
     "LastName": "Pertzovitz",
-    "Email": "t0533171420@gmail.com",
-    "Phone": "0533171420",
+    "Email": "ttttt@gmail.com",
+    "Phone": "12345",
     "Password": "1"
   }
 ]
