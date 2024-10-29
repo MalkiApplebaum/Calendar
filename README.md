@@ -17,3 +17,6 @@ This project is a calendar-based task management application featuring both serv
 1. Clone the repository:
    ```bash
    git clone <https://github.com/MalkiApplebaum/Calendar>
+
+   ![image](https://github.com/user-attachments/assets/69057290-6f96-4ca0-b593-e581e38b0873)
+
