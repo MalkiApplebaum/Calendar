@@ -1,4 +1,5 @@
 # 🗓️Calendar Task Management Project🗓️
+### Developed by Malki Applebaum ✍️
 
 ## Overview
 This project is a calendar-based task management application featuring both server-side and client-side components. The server is developed in **C#**, while the client-side is built in **React**. The application provides an intuitive and user-friendly interface to add, edit, and view tasks within a calendar.
